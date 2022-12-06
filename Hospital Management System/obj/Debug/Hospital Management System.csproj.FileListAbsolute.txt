@@ -1,0 +1,31 @@
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital Management System.csprojAssemblyReference.cache
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital_Management_System.LoginForm.resources
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\bin\Debug\Hospital.mdf
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\bin\Debug\Hospital_log.ldf
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital_Management_System.AdminForm.resources
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital_Management_System.ForgotPasswordForm.resources
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital_Management_System.Patient.resources
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital_Management_System.PatientInfoForm.resources
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital_Management_System.Home.resources
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital_Management_System.Doctor.resources
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital_Management_System.Department.resources
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital_Management_System.ReceptionistForm.resources
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital_Management_System.User.resources
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital_Management_System.UserInfoForm.resources
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital_Management_System.ChangePasswordForm.resources
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital_Management_System.Appointment.resources
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital_Management_System.Medicine.resources
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital_Management_System.Nurse.resources
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorAllInfoForm.resources
+C:\Users\Akash\source\repos\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorViewOnly.resources
+C:\Users\mahab\OneDrive\Desktop\Dev\c#\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\mahab\OneDrive\Desktop\Dev\c#\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\mahab\OneDrive\Desktop\Dev\c#\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\mahab\OneDrive\Desktop\Dev\c#\Hospital Management System Sln\Hospital Management System\obj\Debug\Hospital Management System.pdb
